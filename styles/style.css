@@ -178,7 +178,7 @@ main{
     color: #ff014d !important;
    }
 
-   @media (max-width: 768px){
+   @media (max-width: 858px){
     img{
         height: 100%;
         width: 100%;
