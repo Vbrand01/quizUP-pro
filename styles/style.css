@@ -10,7 +10,7 @@
 }
 
 body{
-    background-color: rgb(26, 26, 26) !important;
+    background-color: rgb(24, 24, 24) !important;
 }
 
 .nav-menu{
@@ -58,11 +58,12 @@ body{
 }
 
 .title-genero{
-    text-align: center;
+    text-align: left;
     text-decoration: overline;
     border-bottom: #5f5f5f 5px solid;
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 8px;
+    font-weight: 700;
     width: 50%;
 }
 
@@ -114,6 +115,7 @@ main{
     border: none !important;
     margin-left: 20px;
     margin-top: -40px;
+    margin-bottom: 30px;
    }
    
    .card .card-border-top {
@@ -237,3 +239,6 @@ main{
    
        
    }
+
+
+   /* @vm.brandao
